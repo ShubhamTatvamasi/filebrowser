@@ -10,7 +10,7 @@ docker run -d \
   filebrowser/filebrowser
 ```
 
-http://localhost:8080
+http://192.168.1.7:8080
 
 ```bash
 docker logs filebrowser
