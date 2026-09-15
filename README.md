@@ -17,5 +17,5 @@ docker logs filebrowser
 ```
 
 ```
-2026/09/14 16:13:12 User 'admin' initialized with randomly generated password: PXtj2J3XUGqo3VlN
+2026/09/15 04:38:14 User 'admin' initialized with randomly generated password: -WlH5D6RyDhZVN2W
 ```
